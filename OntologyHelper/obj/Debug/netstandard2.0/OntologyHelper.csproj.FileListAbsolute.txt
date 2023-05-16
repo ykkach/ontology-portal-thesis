@@ -1,0 +1,10 @@
+D:\Yaroslav\student\thesis_work\OntoWebAPI\OntologyHelper\bin\Debug\netstandard2.0\OntologyHelper.deps.json
+D:\Yaroslav\student\thesis_work\OntoWebAPI\OntologyHelper\bin\Debug\netstandard2.0\OntologyHelper.dll
+D:\Yaroslav\student\thesis_work\OntoWebAPI\OntologyHelper\bin\Debug\netstandard2.0\OntologyHelper.pdb
+D:\Yaroslav\student\thesis_work\OntoWebAPI\OntologyHelper\obj\Debug\netstandard2.0\OntologyHelper.csproj.AssemblyReference.cache
+D:\Yaroslav\student\thesis_work\OntoWebAPI\OntologyHelper\obj\Debug\netstandard2.0\OntologyHelper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yaroslav\student\thesis_work\OntoWebAPI\OntologyHelper\obj\Debug\netstandard2.0\OntologyHelper.AssemblyInfoInputs.cache
+D:\Yaroslav\student\thesis_work\OntoWebAPI\OntologyHelper\obj\Debug\netstandard2.0\OntologyHelper.AssemblyInfo.cs
+D:\Yaroslav\student\thesis_work\OntoWebAPI\OntologyHelper\obj\Debug\netstandard2.0\OntologyHelper.csproj.CoreCompileInputs.cache
+D:\Yaroslav\student\thesis_work\OntoWebAPI\OntologyHelper\obj\Debug\netstandard2.0\OntologyHelper.dll
+D:\Yaroslav\student\thesis_work\OntoWebAPI\OntologyHelper\obj\Debug\netstandard2.0\OntologyHelper.pdb

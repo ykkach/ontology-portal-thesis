@@ -1,0 +1,14 @@
+D:\Yaroslav\student\thesis_work\OntoWebAPI\Onto.DAL\obj\Debug\net6.0\Onto.DAL.csproj.AssemblyReference.cache
+D:\Yaroslav\student\thesis_work\OntoWebAPI\Onto.DAL\obj\Debug\net6.0\Onto.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yaroslav\student\thesis_work\OntoWebAPI\Onto.DAL\obj\Debug\net6.0\Onto.DAL.AssemblyInfoInputs.cache
+D:\Yaroslav\student\thesis_work\OntoWebAPI\Onto.DAL\obj\Debug\net6.0\Onto.DAL.AssemblyInfo.cs
+D:\Yaroslav\student\thesis_work\OntoWebAPI\Onto.DAL\obj\Debug\net6.0\Onto.DAL.csproj.CoreCompileInputs.cache
+D:\Yaroslav\student\thesis_work\OntoWebAPI\Onto.DAL\bin\Debug\net6.0\Onto.DAL.deps.json
+D:\Yaroslav\student\thesis_work\OntoWebAPI\Onto.DAL\bin\Debug\net6.0\Onto.DAL.dll
+D:\Yaroslav\student\thesis_work\OntoWebAPI\Onto.DAL\bin\Debug\net6.0\Onto.DAL.pdb
+D:\Yaroslav\student\thesis_work\OntoWebAPI\Onto.DAL\obj\Debug\net6.0\Onto.DAL.dll
+D:\Yaroslav\student\thesis_work\OntoWebAPI\Onto.DAL\obj\Debug\net6.0\refint\Onto.DAL.dll
+D:\Yaroslav\student\thesis_work\OntoWebAPI\Onto.DAL\obj\Debug\net6.0\Onto.DAL.pdb
+D:\Yaroslav\student\thesis_work\OntoWebAPI\Onto.DAL\obj\Debug\net6.0\ref\Onto.DAL.dll
+D:\Yaroslav\student\thesis_work\OntoWebAPI\Onto.DAL\bin\Debug\net6.0\Onto.DAL.runtimeconfig.json
+D:\Yaroslav\student\thesis_work\OntoWebAPI\Onto.DAL\obj\Debug\net6.0\Onto.DAL.genruntimeconfig.cache

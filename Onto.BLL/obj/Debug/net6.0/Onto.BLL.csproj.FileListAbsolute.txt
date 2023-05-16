@@ -1,0 +1,15 @@
+D:\Yaroslav\student\thesis_work\OntoWebAPI\Onto.BLL\bin\Debug\net6.0\Onto.BLL.deps.json
+D:\Yaroslav\student\thesis_work\OntoWebAPI\Onto.BLL\bin\Debug\net6.0\Onto.BLL.dll
+D:\Yaroslav\student\thesis_work\OntoWebAPI\Onto.BLL\bin\Debug\net6.0\Onto.BLL.pdb
+D:\Yaroslav\student\thesis_work\OntoWebAPI\Onto.BLL\bin\Debug\net6.0\Onto.DAL.dll
+D:\Yaroslav\student\thesis_work\OntoWebAPI\Onto.BLL\bin\Debug\net6.0\Onto.DAL.pdb
+D:\Yaroslav\student\thesis_work\OntoWebAPI\Onto.BLL\obj\Debug\net6.0\Onto.BLL.csproj.AssemblyReference.cache
+D:\Yaroslav\student\thesis_work\OntoWebAPI\Onto.BLL\obj\Debug\net6.0\Onto.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yaroslav\student\thesis_work\OntoWebAPI\Onto.BLL\obj\Debug\net6.0\Onto.BLL.AssemblyInfoInputs.cache
+D:\Yaroslav\student\thesis_work\OntoWebAPI\Onto.BLL\obj\Debug\net6.0\Onto.BLL.AssemblyInfo.cs
+D:\Yaroslav\student\thesis_work\OntoWebAPI\Onto.BLL\obj\Debug\net6.0\Onto.BLL.csproj.CoreCompileInputs.cache
+D:\Yaroslav\student\thesis_work\OntoWebAPI\Onto.BLL\obj\Debug\net6.0\Onto.BLL.csproj.CopyComplete
+D:\Yaroslav\student\thesis_work\OntoWebAPI\Onto.BLL\obj\Debug\net6.0\Onto.BLL.dll
+D:\Yaroslav\student\thesis_work\OntoWebAPI\Onto.BLL\obj\Debug\net6.0\refint\Onto.BLL.dll
+D:\Yaroslav\student\thesis_work\OntoWebAPI\Onto.BLL\obj\Debug\net6.0\Onto.BLL.pdb
+D:\Yaroslav\student\thesis_work\OntoWebAPI\Onto.BLL\obj\Debug\net6.0\ref\Onto.BLL.dll
